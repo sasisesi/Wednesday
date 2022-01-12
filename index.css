@@ -1,0 +1,60 @@
+
+#container {
+  text-align:center;
+  background-color:white;
+  color:black;
+  width:100%;
+  height:100px;
+  margin: 0px auto; 
+}
+#header{
+  text-align:left;
+  padding: 0px;
+  height:60px;
+}
+#topbar
+{
+ background:black;
+ width:100%;
+ height:20px;
+}
+#header ul{
+  float: right;
+  margin-top:25px;
+  margin-left: 25px;
+}
+#header ul li{
+  display:inline;
+  margin-right: 30px;
+}
+#header ul li a
+{
+  color:crimson;
+  text-decoration: none;
+}
+.city {
+  background-color: rgb(178, 168, 214);
+  color:black;
+  text-align:justify;
+}
+.city1 {
+  background-color: rgb(172, 227, 243);
+  color:black;
+  padding: 40px;
+  text-align:justify;
+  border:1px solid powderblue;
+}
+.c2{
+  border:1px solid black;
+  text-align:left;
+  width:100%;
+  border: 1px solid black;
+  background-color:rgba(255, 99, 71, 0.2);
+
+  
+}
+.f1{
+  background-color: rgb(178, 168, 214); 
+}
+
+
